@@ -12,7 +12,7 @@
 start(_StartType, _StartArgs) ->
     Dispatch = cowboy_router:compile([
         %% {URIHost, [{URIPath, Handler, Opts}]}
-        %{'_', [{"/users/[:id]", route_user, []}]}
+        {'_', [{"/time", route_time, []}]}
     ]),
 
     %% Name, NbAcceptors, TransOpts, ProtoOpts

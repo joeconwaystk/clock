@@ -4,5 +4,5 @@
               {registered,[]},
               {mod,{clock_app,[]}},
               {env,[]},
-              {modules,[clock_app,clock_sup]},
+              {modules,[clock_app,clock_sup,route_time]},
               {applications,[cowboy,sch,wsh]}]}.
