@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="compile" type="RebarRunConfigurationType" factoryName="Erlang Rebar">
+    <module name="" />
+    <option name="command" value="compile" />
+    <option name="name" value="compile" />
+    <option name="saveOutputToFile" value="false" />
+    <option name="showConsoleOnStdErr" value="false" />
+    <option name="showConsoleOnStdOut" value="false" />
+    <option name="skipDependencies" value="false" />
+    <RunnerSettings RunnerId="RebarRunner" />
+    <ConfigurationWrapper RunnerId="RebarRunner" />
+    <method />
+  </configuration>
+</component>

@@ -1,0 +1,8 @@
+{application,clock,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {mod,{clock_app,[]}},
+              {env,[]},
+              {modules,[clock_app,clock_sup]},
+              {applications,[cowboy,sch,wsh]}]}.

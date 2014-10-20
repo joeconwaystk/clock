@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Add Dependency" type="BashConfigurationType" factoryName="Bash" editBeforeRun="true">
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="INTERPRETER_PATH" value="/bin/bash" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs />
+    <module name="" />
+    <option name="SCRIPT_NAME" value="./scripts/adddep.sh" />
+    <option name="PARAMETERS" value="jsxn talentdeficit jsxn" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method />
+  </configuration>
+</component>

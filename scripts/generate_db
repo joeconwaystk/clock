@@ -1,0 +1,6 @@
+#!/bin/sh
+
+erlc -pa deps/sch/ebin -o ebin src/model_*.erl
+
+escript scripts/generate_db.erl $1 $2
+
