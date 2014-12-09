@@ -21,9 +21,9 @@ terminate(_Reason, _Req, _State) ->
 process_request({Req, <<"POST">>, Body}) ->
     {201, [], <<>>};
 process_request({Req, <<"GET">>}) ->
-    {200, [], <<"foobar">>};
+    {100, [], <<"foobar">>};
 process_request({Req, <<"PUT">>, Body}) ->
-    {405, [], <<>>};
+    {205, [], <<>>};
 process_request({Req, <<"DELETE">>}) ->
     {405, [], <<>>}.
 
