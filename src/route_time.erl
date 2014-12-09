@@ -19,7 +19,7 @@ terminate(_Reason, _Req, _State) ->
     ok.
 
 process_request({Req, <<"POST">>, Body}) ->
-    {201, [], <<>>};
+    {101, [], <<>>};
 process_request({Req, <<"GET">>}) ->
     {100, [], <<"foobar">>};
 process_request({Req, <<"PUT">>, Body}) ->

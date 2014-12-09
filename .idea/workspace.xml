@@ -36,8 +36,13 @@
       <file leaf-file-name="route_time.erl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/route_time.erl">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.3125" vertical-offset="0" max-vertical-offset="1056">
               <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+=======
+            <state vertical-scroll-proportion="0.2840909" vertical-offset="0" max-vertical-offset="1056">
+              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+>>>>>>> hey
               <folding />
             </state>
           </provider>
@@ -333,7 +338,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="270000" />
+=======
+    <option name="totallyTimeSpent" value="280000" />
+>>>>>>> hey
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1174" extended-state="6" />
@@ -425,8 +434,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/route_time.erl">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.3125" vertical-offset="0" max-vertical-offset="1056">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+=======
+        <state vertical-scroll-proportion="0.2840909" vertical-offset="0" max-vertical-offset="1056">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+>>>>>>> hey
           <folding />
         </state>
       </provider>
